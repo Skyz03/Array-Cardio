@@ -1,5 +1,5 @@
 # JS--Array-Cardio1
-The Array Cardio challenge for different methods available in the array
+The Array Cardio challenge for different methods available in the array.<br>
 This project is the fourth challange in JS-30 challenge where I learned about ARRAY ```.filter()```, ```.map()```, ```.reduce()```  ```.sort()``` thing.
 
 
