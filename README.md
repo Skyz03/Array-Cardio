@@ -65,8 +65,7 @@ Can Implement different functions to find more about these arrays.
 
 ## Screenshots
 
-![image](https://user-images.githubusercontent.com/42742924/152007140-40d476d0-ddbe-4dc0-8a03-87dc4f5aa04f.png)
-
+![image](https://user-images.githubusercontent.com/42742924/152195724-a2eb91f1-a028-4f88-b0c0-f98e39029ad6.png)
 
 ## Tech Stack
 
